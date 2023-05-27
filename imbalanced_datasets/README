@@ -2,4 +2,4 @@ The dataset contains transactions made by credit cards in September 2013 by Euro
 The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 I use different technique to handle imbalanced datasets such as Oversampling and SMOTE((Synthetic Minority Over-sampling Technique)
 
-Due to large size of dataset I zip the dataset in order to use this dataset kindly download .rar file and unzip it.
+You can download the dataset from kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
